@@ -1,8 +1,8 @@
 # Titanic: Machine Learning from Disaster
 
-**unbelivable ... to achieve 1.000. How did they do this?**
+**unbelivable ... to achieve 1.000. How did they do this?
 
-**Just curious, how did they cheat the score?** ANS: maybe, we have the information existing in https://www.encyclopedia-titanica.org/titanic-victims/
+**Just curious, how did they cheat the score? ANS: maybe, we have the information existing in https://www.encyclopedia-titanica.org/titanic-victims/
 
 ## Competition Description
 
